@@ -15,9 +15,9 @@ Raw spreadsheets and complex datasets can be incredibly time-consuming to interp
  
 🌟 Key Features & Core Modules
 
- Automated Data Profiling: Instantly reads uploaded datasets to summarize total rows, active columns, and high-level statistics (mean, max, median) at a glance.
-  Data Quality Diagnostics: Automatically flags missing records, structural anomalies, and data types to give analysts a clear blueprint of what needs to be cleaned.
- Interactive AI Chat Console: Embedded with an on-demand AI assistant that explains complex data trends step-by-step and instantly writes optimized SQL queries based on the data's profile.
+ Automated Data Profiling: Instantly reads uploaded datasets to summarize total rows, active columns, and high-level statistics (mean, max, median) at a glance.   
+  Data Quality Diagnostics: Automatically flags missing records, structural anomalies, and data types to give analysts a clear blueprint of what needs to be cleaned.         
+ Interactive AI Chat Console: Embedded with an on-demand AI assistant that explains complex data trends step-by-step and instantly writes optimized SQL queries based on the data's profile.        
  Bite-Sized Visualizations: Automatically maps data categories into dynamic charts (such as content distribution pie charts) for immediate visual storytelling.
  
 🧰 Technical Skills & Competencies Demonstrated
