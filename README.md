@@ -22,8 +22,8 @@ Raw spreadsheets and complex datasets can be incredibly time-consuming to interp
  
 🧰 Technical Skills & Competencies Demonstrated
 
- Data Analysis & Strategy: Data Profiling, Quality Assessment, Descriptive Statistics, Structural Mapping, SQL Query Logic. 
-  Modern Tools & Frameworks: React, Vite, Tailwind CSS, JSON Metadata processing, AI Prompt Engineering, and Workflow Automation.
+ Data Analysis & Strategy: Data Profiling, Quality Assessment, Descriptive Statistics, Structural Mapping, SQL Query Logic.    
+  Modern Tools & Frameworks: React, Vite, Tailwind CSS, JSON Metadata processing, AI Prompt Engineering, and Workflow Automation.       
    Professional Mindset: Hands-on project execution, agile prototyping, systems thinking, and a strong commitment to making data accessible and efficient.
 
  ## Application Screenshorts
