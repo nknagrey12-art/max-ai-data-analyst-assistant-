@@ -1,0 +1,6 @@
+{
+  "name": "MAX Data Analyst Assistant",
+  "description": "Your personal senior data analyst and visualizer assistant, designed to automatically generate reports, insights, and charts from loaded datasets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
