@@ -28,8 +28,13 @@ Raw spreadsheets and complex datasets can be incredibly time-consuming to interp
 
  ## Application Screenshorts
 
-<img width="1920" height="1080" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/a8eb75c7-f73c-4c3e-868a-3c27d1d539c9" />
+<img width="600"  alt="Screenshot (5)" src="https://github.com/user-attachments/assets/a8eb75c7-f73c-4c3e-868a-3c27d1d539c9" />
 
-<img width="1920" height="1080" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/9c85b376-d541-4549-8d26-c61b3f35747f" />
+<img width="600"  alt="Screenshot (9)" src="https://github.com/user-attachments/assets/9c85b376-d541-4549-8d26-c61b3f35747f" />
 
-<img width="1920" height="1080" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/8c998636-e5b4-4ece-801f-73289fd4bc7e" />
+<img width="600"  alt="Screenshot (8)" src="https://github.com/user-attachments/assets/8c998636-e5b4-4ece-801f-73289fd4bc7e" />
+
+
+
+
+
